@@ -13,9 +13,8 @@
 This system is used cgi script in Python.  
 
 (1) Activate cgi script on your webserver
-* Apache Tutorial: CGI による動的コンテンツ - Apache HTTP サーバ バージョン 2.4
-  https://httpd.apache.org/docs/2.4/ja/howto/cgi.html
-
+* Apache Tutorial: CGI による動的コンテンツ - Apache HTTP サーバ バージョン 2.4  
+  https://httpd.apache.org/docs/2.4/ja/howto/cgi.html 
 
 (2) Get and Relocate Script
 
@@ -35,8 +34,6 @@ Example. Directory Tree
 |       |-- README.md
 |       |-- comparison.py
 |       |-- comparison_fname.py
-|       |-- end_paircomparison.html
-|       |-- start_paircomparison.html
 |       |-- text
 |           |-- 1.txt
 |           |-- 2.txt
