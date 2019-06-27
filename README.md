@@ -51,19 +51,11 @@ Example. Directory Tree
 # Usage
 
 1. Start paircomparison (access start_paircomparison.html)
-
-
-
 2. select project
-
-
-
 3. check text
-
-
-
 4. Done paircomparison (access end_paircomparison.html)
 
+![usage](https://github.com/ShinyaAkagiI/paricomparison/blob/master/usage.PNG)
 
 
 # TODO
